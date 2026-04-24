@@ -59,4 +59,5 @@ Search → compare → quote → intent → secure handoff. Agents stop before p
 
 ### Links
 
-[seanai.space](https://seanai.space)
+[![Website](https://img.shields.io/badge/seanai.space-000000?style=flat-square&logo=safari&logoColor=white)](https://seanai.space)
+[![X (Twitter)](https://img.shields.io/badge/@seanbabalala-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/seanbabalala)
